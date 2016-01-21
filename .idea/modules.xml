@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flashlight-android-tester.iml" filepath="$PROJECT_DIR$/flashlight-android-tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lantern-mobile-single-app-example.iml" filepath="$PROJECT_DIR$/lantern-mobile-single-app-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowDemo/snowDemo.iml" filepath="$PROJECT_DIR$/snowDemo/snowDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowTest/snowTest.iml" filepath="$PROJECT_DIR$/snowTest/snowTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/撒花特效/撒花特效.iml" filepath="$PROJECT_DIR$/撒花特效/撒花特效.iml" />
     </modules>
   </component>
 </project>

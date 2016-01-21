@@ -1,1 +1,4 @@
 include ':app'
+include ':撒花特效'
+include ':snowTest'
+include ':snowDemo'
